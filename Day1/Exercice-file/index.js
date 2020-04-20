@@ -52,3 +52,35 @@ console.log(eval(true != true));
 
 
 console.log("hello!"+"its"+"rainy"+"out");
+
+//Wokrshop 2 :
+//1,2:
+let firstName = "douae";
+let lastName = "lasri";
+
+console.log(firstName+lastName);
+
+//the result is douaelasri
+
+console.log(firstName+ " " +lastName);
+
+//the result is douae lasri
+
+//3:
+var a = 34;
+var b = 21;
+var c;
+a = 2;
+
+ console.log(a + b);
+
+ // thes answer of a+b is 23
+
+ console.log(c==a);
+ //false
+ console.log(c==b);
+ //false
+ console.log(c==c);
+ //true
+
+
